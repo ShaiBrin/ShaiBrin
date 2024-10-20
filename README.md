@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am a versatile software engineer who has experience in fullstack development, mobile development and cybersecurity. My main skillsets revolves around Python, React, Typescript, Java, Postgresql.
+I am a versatile software engineer who has experience in fullstack development, mobile development and cybersecurity. 
+My main skillsets revolves around Python, React, Typescript, Java, Postgresql.
 
 TLDR :
 🇨🇦 From Montreal, Canada
