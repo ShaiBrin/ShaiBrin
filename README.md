@@ -13,6 +13,7 @@ My main skillsets revolve around `Python`, `React`, `Typescript`, `Java`, and `P
 
 - 💻 Web & Mobile Development and Machine Learning
 - 🧠 Reading books and articles
+- 🥋 Brazilian jiu-jitsu 
 - ✉️ Get in touch via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishraq-sha/)
 
 
