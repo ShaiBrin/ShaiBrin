@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am a versatile software engineer who has experience in fullstack development, mobile development and cybersecurity. My main skillsets revolves around Python, React, Typescript, Java, Postgresql.
 
-<!--
-**ShaiBrin/ShaiBrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TLDR :
+🇨🇦 From Montreal, Canada
+🎓 Bachelor of Software Engineering @ ETS Montreal
 
-Here are some ideas to get you started:
+🔭 I’m currently working on merMaid
+🌱 I’m currently learning Palantir AIP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My interests :
+💻 Web & Mobile Development and Machine Learning
+🧠 Reading books and articles
+Get in touch !
