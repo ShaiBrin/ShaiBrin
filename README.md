@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a versatile software engineer who has experience in fullstack development, mobile development and cybersecurity.  
+Versatile software engineer who has experience in fullstack development, mobile development and cybersecurity.  
 My main skillsets revolve around `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`.
 
 **TLDR:**
