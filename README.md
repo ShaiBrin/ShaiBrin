@@ -11,7 +11,7 @@ My main skillsets revolve around `Python`, `React`, `Typescript`, `Java`, and `P
 
 **My interests:**
 
-- 💻 Fullstack Development 
+- 💻 Fullstack Engineer 
 - 📱 Mobile Developer 
 - 🧠 Reading books and articles
 - 🥋 Brazilian jiu-jitsu 
