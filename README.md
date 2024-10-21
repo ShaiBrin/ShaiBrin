@@ -3,7 +3,7 @@ Versatile software engineer who has experience in fullstack development, mobile 
 My main skillsets revolve around `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`.
 
 **TLDR:**
-
+- 🍎 Located in N.Y.C
 - 🇨🇦 From Montreal, Canada
 - 🌱 I’m currently learning Palantir AIP
 - 🎓 Bachelor of Software Engineering @ ETS Montreal
