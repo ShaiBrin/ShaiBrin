@@ -13,7 +13,7 @@ Versatile software engineer who thrives in solving complex and challenging probl
 
 - 💻 Fullstack Engineer 
 - 📱 Mobile Developer 
-- 🧠 Reading books and articles
+- 🧠 Add me on goodreads : ishr_shai
 - 🥋 Brazilian jiu-jitsu 
 - ✉️ Get in touch via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishraq-sha/)
 
