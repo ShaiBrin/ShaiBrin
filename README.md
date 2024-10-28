@@ -23,7 +23,7 @@ Here's a cool application I've built that determines safe bike paths out of 25, 
 
 - 💻 Fullstack Engineer 
 - 📱 Mobile Developer 
-- 🧠 Add me on goodreads : ishr_shai
+- 🧠 Add me on goodreads: shai_ishr
 - 🥋 Brazilian jiu-jitsu 
 - ✉️ Get in touch via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishraq-sha/)
 
