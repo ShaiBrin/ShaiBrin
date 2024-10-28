@@ -31,3 +31,8 @@ https://x.com/Frank_Lucas_08/status/1847370321692877007
 **Leetcode Statistics**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ShaiBrin)](https://leetcode.com/ShaiBrin)
+
+
+**Github Statistics**
+
+![Shai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaibrin&show_icons=true&theme=radical)
