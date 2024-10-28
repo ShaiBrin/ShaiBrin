@@ -24,7 +24,7 @@ Versatile software engineer who thrives in solving complex and challenging probl
 - ✉️ Get in touch via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishraq-sha/)
 
 
-**Statistics**
+**Statistics:**
 - LeetCode 
   
   [![Leetcode Stats](https://leetcard.jacoblin.cool/ShaiBrin)](https://leetcode.com/ShaiBrin)
