@@ -8,8 +8,9 @@ Versatile software engineer who thrives in solving complex and challenging probl
   13,000 intoxicated driving accidents over 5 years by leveraging AIP logic and using Pipeline Builder and Ontology
   [Palantir Submission DevCon Fellowship](https://x.com/Frank_Lucas_08/status/1847370321692877007)
 
-- Palantir's Foundry Foundations [Palantir's Foundry Foundations](https://verify.skilljar.com/c/hcoeo9jqxz4k)
-- Palantir's Foundry & AIP Builder Foundations Certificate [Palantir's Foundry & AIP Builder Foundations](https://verify.skilljar.com/c/7zdcwb9ofy95)
+- [Palantir's Foundry Foundations Certificate](https://verify.skilljar.com/c/hcoeo9jqxz4k)
+  
+- [Palantir's Foundry & AIP Builder Foundations Certficate](https://verify.skilljar.com/c/7zdcwb9ofy95)
 
 **TLDR:**
 - 🍎 Located in NYC
