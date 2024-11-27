@@ -31,7 +31,7 @@ Versatile software engineer who thrives in solving complex and challenging probl
 **Statistics:**
 - LeetCode 
   
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/ShaiBrin)](https://leetcode.com/ShaiBrin)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/ShaiBrin?ext=heatmap)](https://leetcode.com/ShaiBrin)
 
 - Github
   
