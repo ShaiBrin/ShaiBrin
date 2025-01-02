@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Versatile software engineer who thrives in solving complex and challenging problems while remaining deeply curious about new technologies. Throughout my years of experience, I've built and delivered quality products and added new features for clients and customers, not only by leveraging my technical skills such as `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`, in web and mobile development and cybersecurity, but also by using my soft skills to efficiently communicate my thought process and understand the customers' needs and requirements.
+I'm Ish a versatile software engineer who thrives in solving complex and challenging problems while remaining deeply curious about new technologies. Throughout my years of experience, I've built and delivered quality products and added new features for clients and customers, not only by leveraging my technical skills such as `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`, in web and mobile development and cybersecurity, but also by using my soft skills to efficiently communicate my thought process and understand the customers' needs and requirements.
 
 **Notable projects:**
 
