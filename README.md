@@ -6,7 +6,7 @@ I'm Ish a versatile software engineer who thrives in solving complex and challen
 
 - **[merMaid](https://github.com/ShaiBrin/mermaid)** - Uberziation of maids services
 
-- [mediMind](https://x.com/Frank_Lucas_08/status/1847370321692877007](https://github.com/ShaiBrin/MediMind)) - Palantir AIP Mission critical healthcare platform
+- [mediMind](https://github.com/ShaiBrin/MediMind) - Palantir AIP Mission critical healthcare platform
 
 
 
