@@ -21,7 +21,7 @@ I'm Ish a versatile software engineer who thrives in solving complex and challen
 - [Palantir's Foundry & AIP Builder Foundations Certficate](https://verify.skilljar.com/c/7zdcwb9ofy95)
 
 **TLDR:**
-- 🍎 Located in NYC
+- 🇺🇸 Located in NYC
 - 🇨🇦 From Montreal, Canada
 - 🌱 I’m currently learning Palantir AIP
 - 🎓 Bachelor of Software Engineering @ ETS Montreal
