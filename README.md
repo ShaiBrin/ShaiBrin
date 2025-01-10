@@ -9,7 +9,6 @@ I'm versatile software engineer who thrives in solving complex and challenging p
 - **[mediMind](https://github.com/ShaiBrin/MediMind)** - Palantir AIP Mission critical healthcare platform
 
 
-
 **Awards:**
 - Recipient of Palantir's DevCon Fellowship [Palantir DevCon Fellowship](https://www.palantir.com/devcon/fellowship/).
   Here's a cool application I've built that determines safe bike paths out of 25, 000 in New York City by incorporating
@@ -19,20 +18,33 @@ I'm versatile software engineer who thrives in solving complex and challenging p
 - [Palantir's Foundry Foundations Certificate](https://verify.skilljar.com/c/hcoeo9jqxz4k)
   
 - [Palantir's Foundry & AIP Builder Foundations Certficate](https://verify.skilljar.com/c/7zdcwb9ofy95)
-
+  
 **TLDR:**
 - 🇺🇸 Located in NYC
 - 🇨🇦 From Montreal, Canada
-- 🌱 I’m currently learning Palantir AIP
+- 🌱 I’m currently learning [Palantir AIP](https://build.palantir.com/)
 - 🎓 Bachelor of Software Engineering @ ETS Montreal
-- 🔭 I’m currently working on merMaid
+- 🔭 I’m currently working on [merMaid](https://github.com/ShaiBrin/mermaid)
+  
+**Tech stack:**
+- ***Languages***:
+  1. Web : ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+  2. Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
+
+  3. Mobile :
+     - Android: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+     - iOS:  ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+  4. Frameworks: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
+- ***Tools***: ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 **My interests:**
+- 💻 Fullstack Engineer
+- 📱 Mobile Developer
 
-- 💻 Fullstack Engineer 
-- 📱 Mobile Developer 
-- 🧠 Add me on goodreads: shai_ishr
-- 🥋 Brazilian jiu-jitsu 
+
+
+**Contact:**
 - ✉️ Get in touch via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishraq-sha/)
 
 
