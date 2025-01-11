@@ -32,7 +32,7 @@ I'm versatile software engineer who thrives in solving complex and challenging p
 
 **Tech stack:**
 - ***Languages***:
-  1. Web: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+  1. Web: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://github.com/ShaiBrin/Chess) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
   2. Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
 
   3. Mobile: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
