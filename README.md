@@ -1,6 +1,19 @@
 ## Hi there 👋
 
-I'm versatile software engineer who thrives in solving complex and challenging problems while remaining deeply curious about new technologies. Throughout my years of experience, I've built and delivered quality products and created new tools and featurees for clients and customers, not only by leveraging my technical skills such as `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`, but also by using my soft skills to communicate my thought process and understanding customers' needs and business requirements.
+### Currently 
+I'm the co-founder of Automia, an AI speech-to-text web application that structures information based on personalized templates while automating repetitive notes tasks. 
+The application leverages openAI framework in order to extract specific prompts based on the physiotherapists needs. The backend is built with `FastAPI` as framework in `Python` 
+and the front-end is built in NextJS and Tailwind.
+
+**Resources**
+
+- **[Application](https://d1a48ec4c72c.ngrok.app/)** 
+- **[Demo](https://www.automia.tech/)**
+
+Automia has been accepted at UofT incubator program : [Health Innovation Hub](https://entrepreneurs.utoronto.ca/accelerator/h2i/)
+
+### Intro 
+Throughout my years of experience, I've built and delivered quality products and created new tools and featurees for clients and customers, not only by leveraging my technical skills such as `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`, but also by using my soft skills to communicate my thought process and understanding customers' needs and business requirements.
 
 **Notable projects:**
 
