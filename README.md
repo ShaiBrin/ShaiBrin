@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Currently 
-I'm a forward deployed engineer at **[Fujitsu](https://www.fujitsu.com/global/services/business-services/data-intelligence/)** where I build Palantir Foundry Demos specifically in the field of supply chain. I have a good grasp on the different functionalities of `Pipeline Builder`, `Ontology`, `Workshop Module`, `Developer Console`.
+I'm the co-founder of *[HomeTaxPro](https://www.hometaxpro.com/en)** and work as a forward deployed engineer at **[Fujitsu](https://www.fujitsu.com/global/services/business-services/data-intelligence/)** where I build Palantir Foundry Demos specifically in the field of supply chain. I have a good grasp on the different functionalities of `Pipeline Builder`, `Ontology`, `Workshop Module`, `Developer Console`.
 
 ### Intro 
-Throughout my years of experience, I've built and delivered quality products and created new tools and featurees for clients and customers, not only by leveraging my technical skills such as `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`, but also by using my soft skills to communicate my thought process and understanding customers' needs and business requirements.
+Throughout my years of experience, I've built and delivered quality products and created new tools and features for clients and customers, not only by leveraging my technical skills such as `Python`, `React`, `Typescript`, `Java`, and `PostgreSQL`, but also by using my soft skills to communicate my thought process and understanding customers' needs and business requirements.
 
 **Notable projects:**
 I've co-founded automIA, an AI speech-to-text application that structures notes for physiotherapists. 
